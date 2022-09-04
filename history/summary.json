@@ -4,81 +4,89 @@
     "url": "https://my.makepro-x.com",
     "icon": "https://favicons.githubusercontent.com/my.makepro-x.com",
     "slug": "website",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.94%",
+    "uptimeDay": "99.84%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.94%",
     "time": 576,
     "timeDay": 478,
     "timeWeek": 576,
     "timeMonth": 576,
     "timeYear": 576,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-09-04": 2
+    }
   },
   {
     "name": "Cloud Service",
     "url": "https://my.makepro-x.com",
     "icon": "https://favicons.githubusercontent.com/my.makepro-x.com",
     "slug": "cloud-service",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.96%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.96%",
     "time": 128,
     "timeDay": 98,
     "timeWeek": 128,
     "timeMonth": 128,
     "timeYear": 128,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-09-04": 2
+    }
   },
   {
     "name": "Authentication",
     "url": "https://login.makepro-x.com",
     "icon": "https://favicons.githubusercontent.com/login.makepro-x.com",
     "slug": "authentication",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.97%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
     "time": 562,
     "timeDay": 473,
     "timeWeek": 562,
     "timeMonth": 562,
     "timeYear": 562,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-09-04": 1
+    }
   },
   {
     "name": "Forum",
     "url": "https://forum.makepro-x.com",
     "icon": "https://favicons.githubusercontent.com/forum.makepro-x.com",
     "slug": "forum",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.98%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
     "time": 627,
     "timeDay": 459,
     "timeWeek": 627,
     "timeMonth": 627,
     "timeYear": 627,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-09-04": 1
+    }
   },
   {
     "name": "CDN (Downloads)",
     "url": "https://cdn.makepro-x.com/glue-releases",
     "icon": "https://favicons.githubusercontent.com/cdn.makepro-x.com",
     "slug": "cdn-downloads",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -87,6 +95,8 @@
     "timeWeek": 940,
     "timeMonth": 940,
     "timeYear": 940,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-09-04": 0
+    }
   }
 ]
