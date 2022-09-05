@@ -7,11 +7,11 @@ sites:
   - name: Cloud Service
     url: https://my.makepro-x.com
   - name: Authentication
-    url: https://login.makepro-x.com
+    url: $URL_AUTH
   - name: Forum
     url: https://forum.makepro-x.com
   - name: CDN (Downloads)
-    url: https://cdn.makepro-x.com/glue-releases
+    url: $URL_CDN
 
 status-website:
   baseUrl: /status
