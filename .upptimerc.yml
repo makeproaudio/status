@@ -14,7 +14,7 @@ sites:
     url: $URL_CDN
 
 status-website:
-  baseUrl: /status
+  cname: status.makepro-x.com
   logoUrl: https://raw.githubusercontent.com/makeproaudio/status/master/assets/x_black_transparent_rect.png
   name: MakePro X Cloud Status
   introTitle: "Status Information about the services of the **MakePro X Cloud**"
