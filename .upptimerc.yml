@@ -1,6 +1,5 @@
-# Change these first
-owner: hrueger # Your GitHub organization or username, where this repository lives
-repo: status # The name of this repository
+owner: makeproaudio
+repo: status
 
 sites:
   - name: Website
@@ -16,7 +15,7 @@ sites:
 
 status-website:
   baseUrl: /status
-  logoUrl: https://raw.githubusercontent.com/hrueger/status/master/assets/x_black_transparent_rect.png
+  logoUrl: https://raw.githubusercontent.com/makeproaudio/status/master/assets/x_black_transparent_rect.png
   name: MakePro X Cloud Status
   introTitle: "Status Information about the services of the **MakePro X Cloud**"
   introMessage: ""
