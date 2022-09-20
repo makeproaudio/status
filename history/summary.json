@@ -5,20 +5,17 @@
     "icon": "https://favicons.githubusercontent.com/my.makepro-x.com",
     "slug": "website",
     "status": "up",
-    "uptime": "98.21%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.21%",
-    "uptimeYear": "98.21%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 541,
     "timeDay": 455,
     "timeWeek": 513,
     "timeMonth": 541,
     "timeYear": 541,
-    "dailyMinutesDown": {
-      "2022-09-05": 390,
-      "2022-09-04": 66
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Cloud Service",
@@ -26,20 +23,17 @@
     "icon": "https://favicons.githubusercontent.com/my.makepro-x.com",
     "slug": "cloud-service",
     "status": "up",
-    "uptime": "98.21%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.21%",
-    "uptimeYear": "98.21%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 119,
     "timeDay": 93,
     "timeWeek": 113,
     "timeMonth": 119,
     "timeYear": 119,
-    "dailyMinutesDown": {
-      "2022-09-05": 390,
-      "2022-09-04": 65
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Authentication",
@@ -47,41 +41,36 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "authentication",
     "status": "up",
-    "uptime": "98.12%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.12%",
-    "uptimeYear": "98.12%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 583,
     "timeDay": 446,
     "timeWeek": 615,
     "timeMonth": 583,
     "timeYear": 583,
-    "dailyMinutesDown": {
-      "2022-09-06": 24,
-      "2022-09-05": 391,
-      "2022-09-04": 65
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Forum",
     "url": "https://forum.makepro-x.com",
     "icon": "https://favicons.githubusercontent.com/forum.makepro-x.com",
     "slug": "forum",
-    "status": "up",
-    "uptime": "98.22%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.22%",
-    "uptimeYear": "98.22%",
-    "time": 632,
-    "timeDay": 540,
-    "timeWeek": 676,
-    "timeMonth": 632,
-    "timeYear": 632,
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 640,
+    "timeDay": 681,
+    "timeWeek": 694,
+    "timeMonth": 640,
+    "timeYear": 640,
     "dailyMinutesDown": {
-      "2022-09-05": 391,
-      "2022-09-04": 64
+      "2022-09-20": 0
     }
   },
   {
@@ -90,20 +79,16 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "cdn-downloads",
     "status": "up",
-    "uptime": "98.02%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.02%",
-    "uptimeYear": "98.02%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 868,
     "timeDay": 703,
     "timeWeek": 824,
     "timeMonth": 868,
     "timeYear": 868,
-    "dailyMinutesDown": {
-      "2022-09-06": 52,
-      "2022-09-05": 391,
-      "2022-09-04": 63
-    }
+    "dailyMinutesDown": {}
   }
 ]
