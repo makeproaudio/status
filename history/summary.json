@@ -58,19 +58,19 @@
     "url": "https://forum.makepro-x.com",
     "icon": "https://favicons.githubusercontent.com/forum.makepro-x.com",
     "slug": "forum",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 640,
-    "timeDay": 681,
-    "timeWeek": 694,
-    "timeMonth": 640,
-    "timeYear": 640,
+    "status": "up",
+    "uptime": "99.94%",
+    "uptimeDay": "98.82%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.94%",
+    "time": 635,
+    "timeDay": 625,
+    "timeWeek": 674,
+    "timeMonth": 635,
+    "timeYear": 635,
     "dailyMinutesDown": {
-      "2022-09-20": 0
+      "2022-09-20": 17
     }
   },
   {
