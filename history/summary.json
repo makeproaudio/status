@@ -4,19 +4,19 @@
     "url": "https://my.makepro-x.com",
     "icon": "https://favicons.githubusercontent.com/my.makepro-x.com",
     "slug": "website",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 546,
-    "timeDay": 617,
-    "timeWeek": 532,
-    "timeMonth": 546,
-    "timeYear": 546,
+    "status": "up",
+    "uptime": "99.92%",
+    "uptimeDay": "98.23%",
+    "uptimeWeek": "99.75%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.92%",
+    "time": 551,
+    "timeDay": 640,
+    "timeWeek": 549,
+    "timeMonth": 551,
+    "timeYear": 551,
     "dailyMinutesDown": {
-      "2022-09-25": 0
+      "2022-09-25": 26
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://my.makepro-x.com",
     "icon": "https://favicons.githubusercontent.com/my.makepro-x.com",
     "slug": "cloud-service",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 121,
-    "timeDay": 143,
-    "timeWeek": 118,
-    "timeMonth": 121,
-    "timeYear": 121,
+    "status": "up",
+    "uptime": "99.92%",
+    "uptimeDay": "98.23%",
+    "uptimeWeek": "99.75%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.92%",
+    "time": 122,
+    "timeDay": 150,
+    "timeWeek": 123,
+    "timeMonth": 122,
+    "timeYear": 122,
     "dailyMinutesDown": {
-      "2022-09-25": 0
+      "2022-09-25": 26
     }
   },
   {
