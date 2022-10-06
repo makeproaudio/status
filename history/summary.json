@@ -44,19 +44,19 @@
     "url": "$URL_AUTH",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "authentication",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 600,
-    "timeDay": 711,
-    "timeWeek": 564,
-    "timeMonth": 600,
-    "timeYear": 600,
+    "status": "up",
+    "uptime": "99.84%",
+    "uptimeDay": "94.66%",
+    "uptimeWeek": "99.24%",
+    "uptimeMonth": "99.82%",
+    "uptimeYear": "99.84%",
+    "time": 614,
+    "timeDay": 867,
+    "timeWeek": 620,
+    "timeMonth": 617,
+    "timeYear": 614,
     "dailyMinutesDown": {
-      "2022-10-06": 0
+      "2022-10-06": 77
     }
   },
   {
@@ -91,7 +91,7 @@
     "time": 903,
     "timeDay": 1146,
     "timeWeek": 902,
-    "timeMonth": 895,
+    "timeMonth": 901,
     "timeYear": 903,
     "dailyMinutesDown": {}
   }
