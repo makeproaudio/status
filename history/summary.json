@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.95%",
-    "time": 590,
-    "timeDay": 722,
-    "timeWeek": 562,
-    "timeMonth": 589,
-    "timeYear": 590,
+    "time": 589,
+    "timeDay": 554,
+    "timeWeek": 580,
+    "timeMonth": 590,
+    "timeYear": 589,
     "dailyMinutesDown": {
       "2022-09-25": 26
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.95%",
-    "time": 122,
-    "timeDay": 163,
-    "timeWeek": 123,
+    "time": 123,
+    "timeDay": 123,
+    "timeWeek": 127,
     "timeMonth": 121,
-    "timeYear": 122,
+    "timeYear": 123,
     "dailyMinutesDown": {
       "2022-09-25": 26
     }
@@ -45,19 +45,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "authentication",
     "status": "up",
-    "uptime": "99.84%",
-    "uptimeDay": "94.66%",
-    "uptimeWeek": "99.24%",
-    "uptimeMonth": "99.82%",
-    "uptimeYear": "99.84%",
-    "time": 614,
-    "timeDay": 867,
-    "timeWeek": 620,
-    "timeMonth": 617,
-    "timeYear": 614,
-    "dailyMinutesDown": {
-      "2022-10-06": 77
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 612,
+    "timeDay": 813,
+    "timeWeek": 634,
+    "timeMonth": 616,
+    "timeYear": 612,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Forum",
@@ -70,11 +68,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 649,
-    "timeDay": 837,
-    "timeWeek": 660,
-    "timeMonth": 657,
-    "timeYear": 649,
+    "time": 650,
+    "timeDay": 680,
+    "timeWeek": 679,
+    "timeMonth": 659,
+    "timeYear": 650,
     "dailyMinutesDown": {}
   },
   {
@@ -88,11 +86,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 903,
-    "timeDay": 1146,
-    "timeWeek": 902,
-    "timeMonth": 901,
-    "timeYear": 903,
+    "time": 904,
+    "timeDay": 927,
+    "timeWeek": 936,
+    "timeMonth": 902,
+    "timeYear": 904,
     "dailyMinutesDown": {}
   }
 ]
