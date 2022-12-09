@@ -10,7 +10,11 @@ sites:
     url: $URL_AUTH
   - name: Forum
     url: https://forum.makepro-x.com
-  - name: CDN (Downloads)
+  - name: Documentation
+    url: https://glue.makepro-x.com
+  - name: Software Downloads
+    url: $URL_VERSIONY
+  - name: CDN
     url: $URL_CDN
 
 status-website:
