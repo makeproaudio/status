@@ -16,6 +16,10 @@ sites:
     url: $URL_VERSIONY
   - name: CDN
     url: $URL_CDN
+  - name: Crash Reporting
+    url: $URL_SENTRY
+  - name: Monitoring
+    url: $URL_ANALYTICS
 
 status-website:
   cname: status.makepro-x.com
