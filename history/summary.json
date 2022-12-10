@@ -138,19 +138,19 @@
     "url": "$URL_SENTRY",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "crash-reporting",
-    "status": "down",
-    "uptime": "7.51%",
-    "uptimeDay": "7.51%",
-    "uptimeWeek": "7.51%",
-    "uptimeMonth": "7.51%",
-    "uptimeYear": "7.51%",
-    "time": 682,
-    "timeDay": 682,
-    "timeWeek": 682,
-    "timeMonth": 682,
-    "timeYear": 682,
+    "status": "up",
+    "uptime": "2.28%",
+    "uptimeDay": "2.28%",
+    "uptimeWeek": "2.28%",
+    "uptimeMonth": "2.28%",
+    "uptimeYear": "2.28%",
+    "time": 968,
+    "timeDay": 968,
+    "timeWeek": 968,
+    "timeMonth": 968,
+    "timeYear": 968,
     "dailyMinutesDown": {
-      "2022-12-10": 0
+      "2022-12-10": 7
     }
   },
   {
