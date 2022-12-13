@@ -5,21 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/my.makepro-x.com.ico",
     "slug": "website",
     "status": "up",
-    "uptime": "99.96%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.95%",
-    "uptimeYear": "99.96%",
-    "time": 561,
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 560,
     "timeDay": 444,
-    "timeWeek": 564,
-    "timeMonth": 572,
-    "timeYear": 561,
-    "dailyMinutesDown": {
-      "2022-11-22": 21,
-      "2022-11-02": 11,
-      "2022-09-25": 26
-    }
+    "timeWeek": 565,
+    "timeMonth": 563,
+    "timeYear": 560,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Cloud Service",
@@ -27,21 +23,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/my.makepro-x.com.ico",
     "slug": "cloud-service",
     "status": "up",
-    "uptime": "99.96%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.95%",
-    "uptimeYear": "99.96%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 123,
     "timeDay": 97,
-    "timeWeek": 121,
-    "timeMonth": 128,
+    "timeWeek": 120,
+    "timeMonth": 126,
     "timeYear": 123,
-    "dailyMinutesDown": {
-      "2022-11-22": 21,
-      "2022-11-02": 11,
-      "2022-09-25": 26
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Authentication",
@@ -54,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 628,
-    "timeDay": 438,
-    "timeWeek": 541,
-    "timeMonth": 636,
-    "timeYear": 628,
+    "time": 626,
+    "timeDay": 418,
+    "timeWeek": 543,
+    "timeMonth": 626,
+    "timeYear": 626,
     "dailyMinutesDown": {}
   },
   {
@@ -72,11 +64,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 663,
-    "timeDay": 490,
-    "timeWeek": 630,
-    "timeMonth": 669,
-    "timeYear": 663,
+    "time": 671,
+    "timeDay": 1640,
+    "timeWeek": 754,
+    "timeMonth": 693,
+    "timeYear": 671,
     "dailyMinutesDown": {}
   },
   {
@@ -90,11 +82,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 275,
-    "timeDay": 256,
-    "timeWeek": 275,
-    "timeMonth": 275,
-    "timeYear": 275,
+    "time": 374,
+    "timeDay": 869,
+    "timeWeek": 374,
+    "timeMonth": 374,
+    "timeYear": 374,
     "dailyMinutesDown": {}
   },
   {
@@ -103,19 +95,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "software-downloads",
     "status": "up",
-    "uptime": "99.91%",
-    "uptimeDay": "99.79%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.91%",
-    "uptimeYear": "99.91%",
-    "time": 4976,
-    "timeDay": 2485,
-    "timeWeek": 4976,
-    "timeMonth": 4976,
-    "timeYear": 4976,
-    "dailyMinutesDown": {
-      "2022-12-11": 3
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 4863,
+    "timeDay": 4301,
+    "timeWeek": 4863,
+    "timeMonth": 4863,
+    "timeYear": 4863,
+    "dailyMinutesDown": {}
   },
   {
     "name": "CDN",
@@ -128,11 +118,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 869,
-    "timeDay": 691,
-    "timeWeek": 869,
-    "timeMonth": 869,
-    "timeYear": 869,
+    "time": 839,
+    "timeDay": 688,
+    "timeWeek": 839,
+    "timeMonth": 839,
+    "timeYear": 839,
     "dailyMinutesDown": {}
   },
   {
@@ -141,19 +131,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "crash-reporting",
     "status": "up",
-    "uptime": "99.68%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.68%",
-    "uptimeMonth": "99.68%",
-    "uptimeYear": "99.68%",
-    "time": 844,
-    "timeDay": 732,
-    "timeWeek": 844,
-    "timeMonth": 844,
-    "timeYear": 844,
-    "dailyMinutesDown": {
-      "2022-12-10": 7
-    }
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 821,
+    "timeDay": 730,
+    "timeWeek": 821,
+    "timeMonth": 821,
+    "timeYear": 821,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Monitoring",
@@ -166,11 +154,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 618,
-    "timeDay": 542,
-    "timeWeek": 618,
-    "timeMonth": 618,
-    "timeYear": 618,
+    "time": 596,
+    "timeDay": 529,
+    "timeWeek": 596,
+    "timeMonth": 596,
+    "timeYear": 596,
     "dailyMinutesDown": {}
   }
 ]
