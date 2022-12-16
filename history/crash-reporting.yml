@@ -1,7 +1,7 @@
 url: $URL_SENTRY
-status: down
-code: 502
-responseTime: 687
-lastUpdated: 2022-12-16T09:18:33.632Z
+status: up
+code: 200
+responseTime: 1106
+lastUpdated: 2022-12-16T09:25:48.390Z
 startTime: Sat Dec 10 2022 09:24:24 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
