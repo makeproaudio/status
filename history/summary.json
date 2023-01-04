@@ -134,7 +134,7 @@
     "url": "$URL_SENTRY",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "crash-reporting",
-    "status": "up",
+    "status": "down",
     "uptime": "98.96%",
     "uptimeDay": "74.58%",
     "uptimeWeek": "96.37%",
