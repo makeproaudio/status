@@ -64,18 +64,20 @@
     "url": "https://forum.makepro-x.com",
     "icon": "https://icons.duckduckgo.com/ip3/forum.makepro-x.com.ico",
     "slug": "forum",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 674,
-    "timeDay": 645,
-    "timeWeek": 711,
-    "timeMonth": 716,
-    "timeYear": 674,
-    "dailyMinutesDown": {}
+    "time": 673,
+    "timeDay": 538,
+    "timeWeek": 680,
+    "timeMonth": 707,
+    "timeYear": 673,
+    "dailyMinutesDown": {
+      "2023-01-12": 0
+    }
   },
   {
     "name": "Documentation",
