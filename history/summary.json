@@ -11,16 +11,15 @@
     "uptimeMonth": "99.99%",
     "uptimeYear": "99.99%",
     "time": 634,
-    "timeDay": 0,
-    "timeWeek": 649,
-    "timeMonth": 675,
+    "timeDay": 620,
+    "timeWeek": 608,
+    "timeMonth": 679,
     "timeYear": 641,
     "dailyMinutesDown": {
       "2024-01-05": 6,
       "2023-07-11": 7,
       "2023-02-08": 34,
-      "2023-02-03": 22,
-      "2023-01-25": 7
+      "2023-02-03": 22
     }
   },
   {
@@ -35,16 +34,15 @@
     "uptimeMonth": "99.99%",
     "uptimeYear": "99.99%",
     "time": 131,
-    "timeDay": 0,
-    "timeWeek": 119,
+    "timeDay": 113,
+    "timeWeek": 111,
     "timeMonth": 127,
     "timeYear": 133,
     "dailyMinutesDown": {
       "2024-01-05": 4,
       "2023-07-11": 6,
       "2023-02-08": 33,
-      "2023-02-03": 21,
-      "2023-01-25": 7
+      "2023-02-03": 21
     }
   },
   {
@@ -59,15 +57,14 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 612,
-    "timeDay": 0,
-    "timeWeek": 514,
-    "timeMonth": 546,
+    "timeDay": 479,
+    "timeWeek": 476,
+    "timeMonth": 548,
     "timeYear": 606,
     "dailyMinutesDown": {
       "2023-07-11": 6,
       "2023-02-08": 23,
-      "2023-02-03": 21,
-      "2023-01-25": 16
+      "2023-02-03": 21
     }
   },
   {
@@ -81,16 +78,15 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 713,
-    "timeDay": 0,
-    "timeWeek": 622,
-    "timeMonth": 664,
+    "time": 712,
+    "timeDay": 586,
+    "timeWeek": 584,
+    "timeMonth": 665,
     "timeYear": 718,
     "dailyMinutesDown": {
       "2023-08-09": 29,
       "2023-02-08": 31,
-      "2023-02-03": 20,
-      "2023-01-25": 15
+      "2023-02-03": 20
     }
   },
   {
@@ -105,9 +101,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 322,
-    "timeDay": 0,
-    "timeWeek": 220,
-    "timeMonth": 229,
+    "timeDay": 173,
+    "timeWeek": 195,
+    "timeMonth": 230,
     "timeYear": 288,
     "dailyMinutesDown": {}
   },
@@ -118,15 +114,15 @@
     "slug": "software-downloads",
     "status": "up",
     "uptime": "99.94%",
-    "uptimeDay": "99.37%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.75%",
     "uptimeMonth": "99.87%",
     "uptimeYear": "99.94%",
-    "time": 4305,
-    "timeDay": 2305,
-    "timeWeek": 4933,
-    "timeMonth": 5745,
-    "timeYear": 4177,
+    "time": 4307,
+    "timeDay": 5240,
+    "timeWeek": 5180,
+    "timeMonth": 5821,
+    "timeYear": 4173,
     "dailyMinutesDown": {
       "2024-01-23": 9,
       "2024-01-22": 8,
@@ -169,8 +165,7 @@
       "2023-02-08": 22,
       "2023-02-06": 5,
       "2023-02-03": 20,
-      "2023-01-27": 3,
-      "2023-01-25": 30
+      "2023-01-27": 3
     }
   },
   {
@@ -185,15 +180,14 @@
     "uptimeMonth": "99.98%",
     "uptimeYear": "99.99%",
     "time": 939,
-    "timeDay": 0,
-    "timeWeek": 858,
-    "timeMonth": 913,
+    "timeDay": 797,
+    "timeWeek": 802,
+    "timeMonth": 910,
     "timeYear": 943,
     "dailyMinutesDown": {
       "2024-01-05": 11,
       "2023-02-08": 21,
-      "2023-02-03": 19,
-      "2023-01-25": 21
+      "2023-02-03": 19
     }
   },
   {
@@ -208,15 +202,14 @@
     "uptimeMonth": "99.98%",
     "uptimeYear": "99.99%",
     "time": 713,
-    "timeDay": 0,
-    "timeWeek": 624,
+    "timeDay": 591,
+    "timeWeek": 577,
     "timeMonth": 670,
     "timeYear": 714,
     "dailyMinutesDown": {
       "2024-01-05": 10,
       "2023-02-08": 20,
-      "2023-02-03": 19,
-      "2023-01-25": 6
+      "2023-02-03": 19
     }
   }
 ]
