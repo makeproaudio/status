@@ -106,12 +106,12 @@
     "slug": "software-downloads",
     "status": "up",
     "uptime": "99.94%",
-    "uptimeDay": "99.41%",
+    "uptimeDay": "99.48%",
     "uptimeWeek": "99.84%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.95%",
     "time": 4420,
-    "timeDay": 2767,
+    "timeDay": 3136,
     "timeWeek": 4745,
     "timeMonth": 5719,
     "timeYear": 4106,
@@ -154,8 +154,7 @@
       "2023-03-21": 6,
       "2023-03-13": 2,
       "2023-03-10": 2,
-      "2023-03-06": 7,
-      "2023-03-04": 6
+      "2023-03-06": 7
     }
   },
   {
