@@ -13,7 +13,7 @@
     "time": 660,
     "timeDay": 494,
     "timeWeek": 604,
-    "timeMonth": 629,
+    "timeMonth": 633,
     "timeYear": 657,
     "dailyMinutesDown": {
       "2024-01-05": 6
@@ -53,7 +53,7 @@
     "time": 564,
     "timeDay": 415,
     "timeWeek": 506,
-    "timeMonth": 526,
+    "timeMonth": 529,
     "timeYear": 556,
     "dailyMinutesDown": {}
   },
@@ -71,7 +71,7 @@
     "time": 685,
     "timeDay": 486,
     "timeWeek": 594,
-    "timeMonth": 629,
+    "timeMonth": 632,
     "timeYear": 667,
     "dailyMinutesDown": {}
   },
@@ -89,7 +89,7 @@
     "time": 259,
     "timeDay": 151,
     "timeWeek": 208,
-    "timeMonth": 223,
+    "timeMonth": 224,
     "timeYear": 253,
     "dailyMinutesDown": {}
   },
@@ -98,18 +98,19 @@
     "url": "$URL_VERSIONY",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "software-downloads",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.95%",
-    "time": 3751,
+    "time": 3747,
     "timeDay": 2386,
     "timeWeek": 2474,
-    "timeMonth": 2507,
+    "timeMonth": 2537,
     "timeYear": 4073,
     "dailyMinutesDown": {
+      "2024-08-19": 0,
       "2024-08-10": 9,
       "2024-08-06": 8,
       "2024-07-20": 9,
@@ -167,7 +168,7 @@
     "time": 908,
     "timeDay": 669,
     "timeWeek": 808,
-    "timeMonth": 850,
+    "timeMonth": 855,
     "timeYear": 899,
     "dailyMinutesDown": {
       "2024-01-05": 11
@@ -187,7 +188,7 @@
     "time": 669,
     "timeDay": 560,
     "timeWeek": 606,
-    "timeMonth": 624,
+    "timeMonth": 627,
     "timeYear": 657,
     "dailyMinutesDown": {
       "2024-01-05": 10
