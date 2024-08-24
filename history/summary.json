@@ -45,19 +45,19 @@
     "url": "$URL_AUTH",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "authentication",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "97.14%",
-    "uptimeWeek": "99.59%",
-    "uptimeMonth": "99.91%",
+    "uptimeDay": "96.83%",
+    "uptimeWeek": "99.55%",
+    "uptimeMonth": "99.90%",
     "uptimeYear": "99.99%",
-    "time": 602,
-    "timeDay": 4350,
-    "timeWeek": 2253,
-    "timeMonth": 1083,
-    "timeYear": 608,
+    "time": 601,
+    "timeDay": 3686,
+    "timeWeek": 2096,
+    "timeMonth": 1063,
+    "timeYear": 607,
     "dailyMinutesDown": {
-      "2024-08-24": 41
+      "2024-08-24": 46
     }
   },
   {
@@ -187,9 +187,9 @@
     "slug": "monitoring",
     "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "97.18%",
-    "uptimeWeek": "99.60%",
-    "uptimeMonth": "99.91%",
+    "uptimeDay": "96.76%",
+    "uptimeWeek": "99.54%",
+    "uptimeMonth": "99.89%",
     "uptimeYear": "99.99%",
     "time": 692,
     "timeDay": 3175,
@@ -197,7 +197,7 @@
     "timeMonth": 994,
     "timeYear": 691,
     "dailyMinutesDown": {
-      "2024-08-24": 41,
+      "2024-08-24": 47,
       "2024-01-05": 10
     }
   }
