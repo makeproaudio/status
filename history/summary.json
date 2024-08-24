@@ -6,9 +6,9 @@
     "slug": "website",
     "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "99.13%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "98.81%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 671,
     "timeDay": 3297,
@@ -16,7 +16,7 @@
     "timeMonth": 808,
     "timeYear": 673,
     "dailyMinutesDown": {
-      "2024-08-24": 12,
+      "2024-08-24": 17,
       "2024-01-05": 6
     }
   },
@@ -65,9 +65,9 @@
     "slug": "forum",
     "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "99.33%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "99.01%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 685,
     "timeDay": 848,
@@ -75,7 +75,7 @@
     "timeMonth": 658,
     "timeYear": 667,
     "dailyMinutesDown": {
-      "2024-08-24": 10
+      "2024-08-24": 14
     }
   },
   {
@@ -182,19 +182,19 @@
     "url": "$URL_ANALYTICS",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "monitoring",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.29%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "98.99%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 686,
-    "timeDay": 4812,
-    "timeWeek": 1649,
-    "timeMonth": 891,
+    "timeDay": 3489,
+    "timeWeek": 1560,
+    "timeMonth": 890,
     "timeYear": 680,
     "dailyMinutesDown": {
-      "2024-08-24": 10,
+      "2024-08-24": 15,
       "2024-01-05": 10
     }
   }
