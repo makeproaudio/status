@@ -45,19 +45,19 @@
     "url": "$URL_AUTH",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "authentication",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "98.77%",
-    "uptimeWeek": "99.82%",
-    "uptimeMonth": "99.96%",
+    "uptimeDay": "98.32%",
+    "uptimeWeek": "99.76%",
+    "uptimeMonth": "99.94%",
     "uptimeYear": "100.00%",
     "time": 583,
-    "timeDay": 5272,
-    "timeWeek": 1697,
-    "timeMonth": 834,
-    "timeYear": 582,
+    "timeDay": 3820,
+    "timeWeek": 1610,
+    "timeMonth": 836,
+    "timeYear": 583,
     "dailyMinutesDown": {
-      "2024-08-24": 18
+      "2024-08-24": 24
     }
   },
   {
@@ -65,19 +65,19 @@
     "url": "https://forum.makepro-x.com",
     "icon": "https://icons.duckduckgo.com/ip3/forum.makepro-x.com.ico",
     "slug": "forum",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "98.57%",
-    "uptimeWeek": "99.80%",
-    "uptimeMonth": "99.95%",
-    "uptimeYear": "100.00%",
-    "time": 702,
-    "timeDay": 4977,
-    "timeWeek": 1747,
-    "timeMonth": 922,
-    "timeYear": 690,
+    "uptimeDay": "98.10%",
+    "uptimeWeek": "99.73%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.99%",
+    "time": 712,
+    "timeDay": 5150,
+    "timeWeek": 2164,
+    "timeMonth": 1061,
+    "timeYear": 704,
     "dailyMinutesDown": {
-      "2024-08-24": 20
+      "2024-08-24": 27
     }
   },
   {
@@ -105,9 +105,9 @@
     "slug": "software-downloads",
     "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "99.44%",
-    "uptimeWeek": "99.80%",
-    "uptimeMonth": "99.91%",
+    "uptimeDay": "98.82%",
+    "uptimeWeek": "99.71%",
+    "uptimeMonth": "99.89%",
     "uptimeYear": "99.94%",
     "time": 3708,
     "timeDay": 2346,
@@ -115,7 +115,7 @@
     "timeMonth": 2566,
     "timeYear": 4068,
     "dailyMinutesDown": {
-      "2024-08-24": 9,
+      "2024-08-24": 17,
       "2024-08-19": 12,
       "2024-08-10": 9,
       "2024-08-06": 8,
@@ -164,10 +164,10 @@
     "url": "$URL_CDN",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "cdn",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 907,
@@ -176,6 +176,7 @@
     "timeMonth": 880,
     "timeYear": 900,
     "dailyMinutesDown": {
+      "2024-08-24": 1,
       "2024-01-05": 11
     }
   },
