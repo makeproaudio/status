@@ -45,10 +45,10 @@
     "url": "$URL_AUTH",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "authentication",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "97.88%",
-    "uptimeWeek": "99.70%",
+    "uptimeDay": "97.76%",
+    "uptimeWeek": "99.68%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.99%",
     "time": 602,
@@ -57,7 +57,7 @@
     "timeMonth": 1100,
     "timeYear": 608,
     "dailyMinutesDown": {
-      "2024-08-24": 30
+      "2024-08-24": 32
     }
   },
   {
@@ -65,19 +65,19 @@
     "url": "https://forum.makepro-x.com",
     "icon": "https://icons.duckduckgo.com/ip3/forum.makepro-x.com.ico",
     "slug": "forum",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "97.55%",
-    "uptimeWeek": "99.65%",
-    "uptimeMonth": "99.92%",
+    "uptimeDay": "97.04%",
+    "uptimeWeek": "99.58%",
+    "uptimeMonth": "99.90%",
     "uptimeYear": "99.99%",
-    "time": 712,
-    "timeDay": 5150,
-    "timeWeek": 2164,
-    "timeMonth": 1061,
-    "timeYear": 704,
+    "time": 711,
+    "timeDay": 3967,
+    "timeWeek": 1989,
+    "timeMonth": 1042,
+    "timeYear": 703,
     "dailyMinutesDown": {
-      "2024-08-24": 35
+      "2024-08-24": 42
     }
   },
   {
@@ -103,19 +103,19 @@
     "url": "$URL_VERSIONY",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "software-downloads",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "97.49%",
-    "uptimeWeek": "99.52%",
+    "uptimeDay": "97.45%",
+    "uptimeWeek": "99.51%",
     "uptimeMonth": "99.85%",
     "uptimeYear": "99.94%",
-    "time": 3687,
+    "time": 3677,
     "timeDay": 4211,
     "timeWeek": 3173,
     "timeMonth": 2756,
     "timeYear": 4078,
     "dailyMinutesDown": {
-      "2024-08-24": 36,
+      "2024-08-24": 37,
       "2024-08-19": 12,
       "2024-08-10": 9,
       "2024-08-06": 8,
