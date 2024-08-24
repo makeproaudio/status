@@ -4,18 +4,19 @@
     "url": "https://my.makepro-x.com",
     "icon": "https://icons.duckduckgo.com/ip3/my.makepro-x.com.ico",
     "slug": "website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 660,
+    "time": 661,
     "timeDay": 1081,
     "timeWeek": 675,
     "timeMonth": 656,
     "timeYear": 660,
     "dailyMinutesDown": {
+      "2024-08-24": 1,
       "2024-01-05": 6
     }
   },
@@ -178,9 +179,9 @@
     "url": "$URL_ANALYTICS",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "monitoring",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -190,6 +191,7 @@
     "timeMonth": 638,
     "timeYear": 658,
     "dailyMinutesDown": {
+      "2024-08-24": 0,
       "2024-01-05": 10
     }
   }
