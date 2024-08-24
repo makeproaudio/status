@@ -108,9 +108,9 @@
     "slug": "software-downloads",
     "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "91.70%",
-    "uptimeWeek": "98.69%",
-    "uptimeMonth": "99.66%",
+    "uptimeDay": "91.11%",
+    "uptimeWeek": "98.61%",
+    "uptimeMonth": "99.64%",
     "uptimeYear": "99.92%",
     "time": 3795,
     "timeDay": 9641,
@@ -118,7 +118,7 @@
     "timeMonth": 4345,
     "timeYear": 4237,
     "dailyMinutesDown": {
-      "2024-08-24": 120,
+      "2024-08-24": 129,
       "2024-08-19": 12,
       "2024-08-10": 9,
       "2024-08-06": 8,
@@ -167,10 +167,10 @@
     "url": "$URL_CDN",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "cdn",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "98.18%",
-    "uptimeWeek": "99.74%",
+    "uptimeDay": "98.13%",
+    "uptimeWeek": "99.73%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.99%",
     "time": 933,
@@ -179,7 +179,7 @@
     "timeMonth": 1251,
     "timeYear": 934,
     "dailyMinutesDown": {
-      "2024-08-24": 26,
+      "2024-08-24": 27,
       "2024-01-05": 11
     }
   },
@@ -190,9 +190,9 @@
     "slug": "monitoring",
     "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "95.09%",
-    "uptimeWeek": "99.30%",
-    "uptimeMonth": "99.84%",
+    "uptimeDay": "94.50%",
+    "uptimeWeek": "99.21%",
+    "uptimeMonth": "99.82%",
     "uptimeYear": "99.98%",
     "time": 709,
     "timeDay": 3341,
@@ -200,7 +200,7 @@
     "timeMonth": 1201,
     "timeYear": 715,
     "dailyMinutesDown": {
-      "2024-08-24": 71,
+      "2024-08-24": 80,
       "2024-01-05": 10
     }
   }
