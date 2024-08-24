@@ -4,11 +4,11 @@
     "url": "https://my.makepro-x.com",
     "icon": "https://icons.duckduckgo.com/ip3/my.makepro-x.com.ico",
     "slug": "website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "98.48%",
-    "uptimeWeek": "99.78%",
-    "uptimeMonth": "99.95%",
+    "uptimeDay": "98.21%",
+    "uptimeWeek": "99.74%",
+    "uptimeMonth": "99.94%",
     "uptimeYear": "99.99%",
     "time": 678,
     "timeDay": 3626,
@@ -16,7 +16,7 @@
     "timeMonth": 913,
     "timeYear": 683,
     "dailyMinutesDown": {
-      "2024-08-24": 22,
+      "2024-08-24": 26,
       "2024-01-05": 6
     }
   },
@@ -45,18 +45,20 @@
     "url": "$URL_AUTH",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "authentication",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.83%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 564,
     "timeDay": 724,
     "timeWeek": 537,
     "timeMonth": 544,
     "timeYear": 557,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-08-24": 2
+    }
   },
   {
     "name": "Forum",
