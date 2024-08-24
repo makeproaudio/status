@@ -66,19 +66,19 @@
     "url": "https://forum.makepro-x.com",
     "icon": "https://icons.duckduckgo.com/ip3/forum.makepro-x.com.ico",
     "slug": "forum",
-    "status": "down",
+    "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "95.01%",
-    "uptimeWeek": "99.29%",
-    "uptimeMonth": "99.84%",
-    "uptimeYear": "99.99%",
-    "time": 739,
-    "timeDay": 4026,
-    "timeWeek": 2588,
-    "timeMonth": 1362,
-    "timeYear": 739,
+    "uptimeDay": "94.17%",
+    "uptimeWeek": "99.17%",
+    "uptimeMonth": "99.81%",
+    "uptimeYear": "99.98%",
+    "time": 758,
+    "timeDay": 4700,
+    "timeWeek": 3088,
+    "timeMonth": 1586,
+    "timeYear": 764,
     "dailyMinutesDown": {
-      "2024-08-24": 71
+      "2024-08-24": 83
     }
   },
   {
