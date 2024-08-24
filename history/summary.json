@@ -6,9 +6,9 @@
     "slug": "website",
     "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "93.14%",
-    "uptimeWeek": "99.02%",
-    "uptimeMonth": "99.77%",
+    "uptimeDay": "92.55%",
+    "uptimeWeek": "98.94%",
+    "uptimeMonth": "99.76%",
     "uptimeYear": "99.98%",
     "time": 691,
     "timeDay": 2561,
@@ -16,7 +16,7 @@
     "timeMonth": 1099,
     "timeYear": 706,
     "dailyMinutesDown": {
-      "2024-08-24": 100,
+      "2024-08-24": 108,
       "2024-01-05": 6
     }
   },
@@ -25,11 +25,11 @@
     "url": "https://my.makepro-x.com",
     "icon": "https://icons.duckduckgo.com/ip3/my.makepro-x.com.ico",
     "slug": "cloud-service",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "99.58%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "99.38%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 130,
     "timeDay": 368,
@@ -37,7 +37,7 @@
     "timeMonth": 135,
     "timeYear": 124,
     "dailyMinutesDown": {
-      "2024-08-24": 6,
+      "2024-08-24": 9,
       "2024-01-05": 4
     }
   },
@@ -66,11 +66,11 @@
     "url": "https://forum.makepro-x.com",
     "icon": "https://icons.duckduckgo.com/ip3/forum.makepro-x.com.ico",
     "slug": "forum",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "94.17%",
-    "uptimeWeek": "99.17%",
-    "uptimeMonth": "99.81%",
+    "uptimeDay": "94.05%",
+    "uptimeWeek": "99.15%",
+    "uptimeMonth": "99.80%",
     "uptimeYear": "99.98%",
     "time": 759,
     "timeDay": 4706,
@@ -78,7 +78,7 @@
     "timeMonth": 1595,
     "timeYear": 766,
     "dailyMinutesDown": {
-      "2024-08-24": 83
+      "2024-08-24": 85
     }
   },
   {
@@ -188,9 +188,9 @@
     "url": "$URL_ANALYTICS",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "monitoring",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "93.52%",
+    "uptimeDay": "93.50%",
     "uptimeWeek": "99.07%",
     "uptimeMonth": "99.79%",
     "uptimeYear": "99.98%",
