@@ -45,19 +45,19 @@
     "url": "$URL_AUTH",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "authentication",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "96.13%",
-    "uptimeWeek": "99.45%",
-    "uptimeMonth": "99.87%",
+    "uptimeDay": "95.81%",
+    "uptimeWeek": "99.40%",
+    "uptimeMonth": "99.86%",
     "uptimeYear": "99.99%",
-    "time": 609,
-    "timeDay": 3754,
-    "timeWeek": 2255,
-    "timeMonth": 1147,
-    "timeYear": 617,
+    "time": 619,
+    "timeDay": 3939,
+    "timeWeek": 2468,
+    "timeMonth": 1254,
+    "timeYear": 629,
     "dailyMinutesDown": {
-      "2024-08-24": 56
+      "2024-08-24": 61
     }
   },
   {
@@ -65,19 +65,19 @@
     "url": "https://forum.makepro-x.com",
     "icon": "https://icons.duckduckgo.com/ip3/forum.makepro-x.com.ico",
     "slug": "forum",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "96.36%",
-    "uptimeWeek": "99.48%",
-    "uptimeMonth": "99.88%",
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "96.00%",
+    "uptimeWeek": "99.43%",
+    "uptimeMonth": "99.87%",
     "uptimeYear": "99.99%",
-    "time": 719,
-    "timeDay": 4067,
-    "timeWeek": 2215,
-    "timeMonth": 1140,
-    "timeYear": 713,
+    "time": 729,
+    "timeDay": 4362,
+    "timeWeek": 2516,
+    "timeMonth": 1270,
+    "timeYear": 727,
     "dailyMinutesDown": {
-      "2024-08-24": 52
+      "2024-08-24": 57
     }
   },
   {
