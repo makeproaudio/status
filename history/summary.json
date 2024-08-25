@@ -48,10 +48,10 @@
     "url": "$URL_AUTH",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "authentication",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "85.92%",
-    "uptimeWeek": "97.99%",
+    "uptimeDay": "85.86%",
+    "uptimeWeek": "97.98%",
     "uptimeMonth": "99.54%",
     "uptimeYear": "99.96%",
     "time": 738,
@@ -60,7 +60,7 @@
     "timeMonth": 2598,
     "timeYear": 824,
     "dailyMinutesDown": {
-      "2024-08-25": 129,
+      "2024-08-25": 130,
       "2024-08-24": 75
     }
   },
